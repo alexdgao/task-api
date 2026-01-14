@@ -1,0 +1,14 @@
+# virtualenv
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# local secrets
+.env
+
+# editor
+.vscode/
+.idea/
